@@ -26,7 +26,7 @@ const CURRENCY_SYMBOL = {
   BYN: "Br",
   BZD: "BZ$",
   CAD: "$",
-  CDF: "Fc",
+  CDF: "FC",
   CHF: "CHF",
   CLP: "$",
   CNY: "¥",

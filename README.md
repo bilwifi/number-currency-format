@@ -35,6 +35,18 @@ format(1999.99, {
 });
 // '1,999.99 €'
 ```
+### Setting `currency (New)`
+```js
+format(1999.99, {
+    currency: 'USD'
+});
+// '1,999.99 $'
+
+format(1999.99, {
+    currency: 'CDF'
+});
+// '1,999.99 FC'
+```
 
 ### Setting other formatting options
 ```js
